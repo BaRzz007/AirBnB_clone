@@ -195,7 +195,6 @@ class HBNBCommand(cmd.Cmd):
         if not self.__check_attr(arguments):
             return
         obj = HBNBCommand.all_objs["{}.{}".format(arguments[0], arguments[1])]
-        print(arguments[2])
         if '{' and '}' in arguments[2]:
             update_dict = eval(arguments[2])
             # for k, v in update_dict.items():
