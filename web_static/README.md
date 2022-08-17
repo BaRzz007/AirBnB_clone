@@ -14,3 +14,8 @@
 * What is a selector
 * How to compute CSS Specificity Value
 * What are Box properties in CSS
+
+### Resources
+[Learn to code HTML and CSS](https://learn.shayhowe.com/html-css/)
+[Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
+[MDN](https://developer.mozilla.org/en-US/)
